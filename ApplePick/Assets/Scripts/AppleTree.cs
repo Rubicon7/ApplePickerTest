@@ -28,7 +28,7 @@ public class AppleTree : MonoBehaviour
     public float chanceToChangeDirections = 0.1f; //Chance per frame that apple tree will change directions
     public float secondsBetweenAppleDrops = 1f; //Rate at which apples are made
 
-
+    // REALLY COOL COMMENT
 
     // Start is called before the first frame update
     void Start()
